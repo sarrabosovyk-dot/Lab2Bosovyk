@@ -1,4 +1,4 @@
-# Lab2Bosovyk
+# Lab2Bosovyk - main version
 
 Лабораторна робота №2.
 Варіант 1.
