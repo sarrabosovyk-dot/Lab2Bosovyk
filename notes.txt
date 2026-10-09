@@ -1,2 +1,4 @@
 Гілка development.
 У ній виконуються зміни та перевіряється історія Git.
+Changes made in development branch.
+
